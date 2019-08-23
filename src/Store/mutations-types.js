@@ -1,0 +1,5 @@
+export const RECEIVE_ORDER = 'receive_order'
+export const RECEIVE_SHOP = 'receive_shop'
+export const RECEIVE_USER = 'receive_user'
+export const RECEIVE_GOODS = 'receive_goods'
+export const RECEIVE_CITYS = 'receive_citys'
